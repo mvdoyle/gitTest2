@@ -1,3 +1,9 @@
 Public Class Bird{
     public string Name{get; set;}
+
+    public static Age {get; set;}
+
+    static Bird(){
+        Age = 0;
+    }
 }
