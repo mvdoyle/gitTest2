@@ -1,0 +1,3 @@
+Public Class Bird{
+    public string Name{get; set;}
+}
